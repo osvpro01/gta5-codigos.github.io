@@ -1,19 +1,7 @@
-#titulo{
+.titulo{
     color: black;
     background-color: rgba(17, 145, 171, .5);
     width: 900px;
-}
-h1 {
-    color: aqua;
-}
-h3 {
-    color: brown;
-}
-div {
-    height: fit-content;
-    width: 600px;
-    color: blueviolet;
-    background-color: rgba(1,140,140,.5);
 }
 body{
     background-image: url(https://wallpapers.com/images/high/4k-gta-5-bikini-girl-at-beach-3xlsxhpq5y16s7kp.webp);
@@ -32,4 +20,16 @@ height: fit-content;
 #pagina-xbox{
     background-image: url(https://wallpapers.com/images/high/4k-gta-5-bikini-girl-at-beach-3xlsxhpq5y16s7kp.webp);
     background-size: cover;
+}
+.numeros{
+ background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    color: black;
+    width: fit-content;
+    height: fit-content;
+}
+#descripcion1{
+    width: 700px;
+    height: fit-content;
+    background-color: rgba(17, 145, 171, .5);
 }
